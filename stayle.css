@@ -140,7 +140,7 @@ main {
     border-radius: 8px;
     background: #FF900E;
     color: #FFF;
-    width: 300px;
+    width: 200px;
     padding: 40px;
     text-align: center;
     position: relative;
@@ -148,7 +148,7 @@ main {
 }
 
 .ten_years_batch h2 {
-    font-size: 4rem;
+    font-size: 3.7rem;
     margin: 0;
 }
 
