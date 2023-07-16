@@ -202,24 +202,22 @@ main {
 }
 
 /* footer */
+footer div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .footer_section {
     border-radius: 8px;
     background: #FFF4E7;
     width: 900px;
-    height: 80px;
-    margin-left: 20%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .text {
     color: #424242;
     text-align: center;
     font-size: 20px;
-    font-weight: 400;
-
 }
 
 
@@ -273,13 +271,6 @@ main {
     .teams_content,
     .card {
         padding: 0 20px;
-    }
-
-    .footer_section {
-        flex-direction: column;
-        margin-left: 0%;
-        width: 370px;
-        gap: 0;
     }
 
 
