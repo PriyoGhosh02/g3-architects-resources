@@ -140,7 +140,7 @@ main {
     border-radius: 8px;
     background: #FF900E;
     color: #FFF;
-    width: 200px;
+    width: 300px;
     padding: 40px;
     text-align: center;
     position: relative;
@@ -253,6 +253,7 @@ main {
     .ten_years_batch {
         position: static;
         max-width: 300px;
+        width: 265px
     }
 
     .teams_container,
